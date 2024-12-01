@@ -69,9 +69,8 @@
         <a href="#" class="logo">Repostería</a>
         <div class="links">
             <a href="../vista/inicioPrincipal.php">Inicio</a>
-            <a href="#">Menú</a>
-            <a href="controlador/controladorBuscarProducto.php">Menu</a>
-            <a href="#">Contacto</a>
+            <a href="/reposteria/controlador/controladorBuscarProducto.php">Menu</a>
+            <a href="/reposteria/controlador/controladorLoginUsuario.php">Iniciar secion</a>
         </div>
     </div>
 
